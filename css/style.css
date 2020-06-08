@@ -1,11 +1,13 @@
 /* ---------Anash CSS Codes---------- */
-
-
-
-
-
-
-
+.navbar-ul a {
+  text-decoration: none;
+  list-style-type: none;
+  display: inline-block;
+  padding: 0 1%;
+}
+.navbar {
+  background-color: ;
+}
 
 /* -------------Margaret CSS Codes-------------- */
 /* Write your codes here: */
