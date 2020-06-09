@@ -1,22 +1,4 @@
 /* ---------Anash CSS Codes---------- */
-.navbar-ul a {
-  text-decoration: none;
-  list-style-type: none;
-  display: inline-block;
-  padding: 0 2%;
-  text-transform: uppercase;
-  color: #000;
-}
-.navbar ul{
-  display: inline-block;
-  width: 50%;
-  text-align: right;
-}
-.website-logo {
-    margin-right: 30%;
-}
-.navbar {
-    padding: 2% 5%;
-}
+
 /* -------------Margaret CSS Codes-------------- */
 /* Write your codes here: */
